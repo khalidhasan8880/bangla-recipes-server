@@ -1,0 +1,88 @@
+{
+    "recipes": [
+        {
+            "id": 1,
+            "recipe_name": "Shorshe Ilish (Hilsa in Mustard Gravy)",
+            "chef": {
+              "name": "Moushumi Hamid",
+              "age": 33,
+              "profession": "TV Host and Actress",
+              "years_of_experience": 4,
+              "chef_picture": "https://tds-images.thedailystar.net/sites/default/files/styles/very_big_1/public/feature/images/moushumi_hamid_1.jpg",
+              "bio": "Moushumi Hamid is a well-known TV host and actress in Bangladesh. She is passionate about cooking and often shares her recipes with her fans."
+            },
+            "cuisine": "Bangladeshi",
+            "course": "Main course",
+            "difficulty": "Medium",
+            "prep_time": "20 minutes",
+            "cook_time": "25 minutes",
+            "total_time": "45 minutes",
+            "servings": "4",
+            "dietary_restrictions": [],
+            "ingredients": [
+              "1 large Hilsa fish, cleaned and cut into pieces",
+              "2 tbsp Mustard oil",
+              "1 tsp Turmeric powder",
+              "1 tsp Red chilli powder",
+              "1 tbsp Mustard paste",
+              "1 Onion, chopped",
+              "2 Green chillies, slit",
+              "1/2 tsp Sugar",
+              "Salt, to taste"
+            ],
+            "instructions": [
+              "Mix turmeric powder, red chilli powder and salt in a bowl and marinate the fish pieces with the mixture for 10 minutes.",
+              "Heat mustard oil in a pan and fry the fish pieces till golden brown. Keep aside.",
+              "In the same pan, add chopped onion and green chillies and sauté till the onion turns translucent.",
+              "Add mustard paste, sugar and salt to taste. Stir well.",
+              "Add a cup of water and let it boil.",
+              "Add the fried fish pieces to the gravy and cook for 5-7 minutes.",
+              "Serve hot with steamed rice."
+            ],
+            "recipe_rating": 4.5,
+            "recipe_like": 248
+          },
+          {
+            "id": 2,
+            "recipe_name": "Shorshe Ilish (Hilsa in Mustard Gravy)",
+            "chef": {
+              "name": "Moushumi Hamid",
+              "age": 33,
+              "profession": "TV Host and Actress",
+              "years_of_experience": 4,
+              "chef_picture": "https://tds-images.thedailystar.net/sites/default/files/styles/very_big_1/public/feature/images/moushumi_hamid_1.jpg",
+              "bio": "Moushumi Hamid is a well-known TV host and actress in Bangladesh. She is passionate about cooking and often shares her recipes with her fans."
+            },
+            "cuisine": "Bangladeshi",
+            "course": "Main course",
+            "difficulty": "Medium",
+            "prep_time": "20 minutes",
+            "cook_time": "25 minutes",
+            "total_time": "45 minutes",
+            "servings": "4",
+            "dietary_restrictions": [],
+            "ingredients": [
+              "1 large Hilsa fish, cleaned and cut into pieces",
+              "2 tbsp Mustard oil",
+              "1 tsp Turmeric powder",
+              "1 tsp Red chilli powder",
+              "1 tbsp Mustard paste",
+              "1 Onion, chopped",
+              "2 Green chillies, slit",
+              "1/2 tsp Sugar",
+              "Salt, to taste"
+            ],
+            "instructions": [
+              "Mix turmeric powder, red chilli powder and salt in a bowl and marinate the fish pieces with the mixture for 10 minutes.",
+              "Heat mustard oil in a pan and fry the fish pieces till golden brown. Keep aside.",
+              "In the same pan, add chopped onion and green chillies and sauté till the onion turns translucent.",
+              "Add mustard paste, sugar and salt to taste. Stir well.",
+              "Add a cup of water and let it boil.",
+              "Add the fried fish pieces to the gravy and cook for 5-7 minutes.",
+              "Serve hot with steamed rice."
+            ],
+            "recipe_rating": 4.5,
+            "recipe_like": 248
+          }
+    ]
+}

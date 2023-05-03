@@ -5,7 +5,7 @@
         "experience": "10+ years of experience",
         "likes": ["Fish Curry", "Misti Doi"],
         "bio": "Sudipa Bhattacharya is a renowned Bengali chef known for her traditional recipes. With over 10 years of experience in the culinary industry, Sudipa has established herself as an expert in Bengali cuisine. She has also authored several cookbooks and has hosted cooking shows on various TV channels.",
-        "picture": "https://example.com/sudipa.jpg",
+        "picture": "https://static.toiimg.com/thumb/msid-64585574,width-1280,resizemode-4/64585574.jpg",
         "recipes": [
           {
             "recipeName": "Macher Jhol (Fish Curry)",
@@ -95,7 +95,367 @@
         "experience": "10+ years of experience",
         "likes": ["Fish Curry", "Misti Doi"],
         "bio": "Sudipa Bhattacharya is a renowned Bengali chef known for her traditional recipes. With over 10 years of experience in the culinary industry, Sudipa has established herself as an expert in Bengali cuisine. She has also authored several cookbooks and has hosted cooking shows on various TV channels.",
-        "picture": "https://example.com/sudipa.jpg",
+        "picture": "https://static.toiimg.com/thumb/msid-64585574,width-1280,resizemode-4/64585574.jpg",
+        "recipes": [
+          {
+            "recipeName": "Macher Jhol (Fish Curry)",
+            "recipePicture": "https://th.bing.com/th/id/R.0c272076d475bdadc8c78746b1528848?rik=dkjUY2l5ED%2bi0w&riu=http%3a%2f%2fwww.mareenasrecipecollections.com%2fwp-content%2fuploads%2f2013%2f11%2fmachher-jhol-bengali-fish-curry-recipe-dish.1024x1024.jpg&ehk=g8iC%2bu8Hp5CK7KyqdoojfU%2b2gYKsA%2fdsmwPZj%2fF78jw%3d&risl=&pid=ImgRaw&r=0",
+            "ingredients": [
+              "4 pieces of Rohu fish",
+              "1 onion, chopped",
+              "1 tomato, chopped",
+              "1 tsp ginger paste",
+              "1 tsp garlic paste",
+              "1 tsp turmeric powder",
+              "1 tsp red chili powder",
+              "1 tsp cumin powder",
+              "1 tsp coriander powder",
+              "1 bay leaf",
+              "2 green chilies, slit",
+              "2 tbsp mustard oil",
+              "Salt to taste",
+              "2 cups water"
+            ],
+            "instructions": [
+              "Wash the fish and marinate with turmeric and salt.",
+              "Heat oil in a pan and fry the fish until golden brown. Keep aside.",
+              "In the same oil, add the bay leaf and onion. Fry until the onion is translucent.",
+              "Add ginger and garlic paste and fry until the raw smell goes away.",
+              "Add tomato, turmeric powder, cumin powder, coriander powder, and red chili powder. Cook until the tomato is soft.",
+              "Add water and bring it to a boil. Add the fried fish and green chilies. Cook for 10-15 minutes.",
+              "Serve hot with rice."
+            ]
+          },
+          {
+            "recipeName": "Macher Jhol (Fish Curry)",
+            "recipeLike": 43,
+            "recipeRating": 4.5,
+            "recipePicture": "https://th.bing.com/th/id/R.0c272076d475bdadc8c78746b1528848?rik=dkjUY2l5ED%2bi0w&riu=http%3a%2f%2fwww.mareenasrecipecollections.com%2fwp-content%2fuploads%2f2013%2f11%2fmachher-jhol-bengali-fish-curry-recipe-dish.1024x1024.jpg&ehk=g8iC%2bu8Hp5CK7KyqdoojfU%2b2gYKsA%2fdsmwPZj%2fF78jw%3d&risl=&pid=ImgRaw&r=0",
+            "ingredients": [
+              "4 pieces of Rohu fish",
+              "1 onion, chopped",
+              "1 tomato, chopped",
+              "1 tsp ginger paste",
+              "1 tsp garlic paste",
+              "1 tsp turmeric powder",
+              "1 tsp red chili powder",
+              "1 tsp cumin powder",
+              "1 tsp coriander powder",
+              "1 bay leaf",
+              "2 green chilies, slit",
+              "2 tbsp mustard oil",
+              "Salt to taste",
+              "2 cups water"
+            ],
+            "instructions": [
+              "Wash the fish and marinate with turmeric and salt.",
+              "Heat oil in a pan and fry the fish until golden brown. Keep aside.",
+              "In the same oil, add the bay leaf and onion. Fry until the onion is translucent.",
+              "Add ginger and garlic paste and fry until the raw smell goes away.",
+              "Add tomato, turmeric powder, cumin powder, coriander powder, and red chili powder. Cook until the tomato is soft.",
+              "Add water and bring it to a boil. Add the fried fish and green chilies. Cook for 10-15 minutes.",
+              "Serve hot with rice."
+            ]
+          },
+          {
+            "recipeName": "Misti Doi (Sweet Yogurt)",
+            "recipeLike": 43,
+            "recipeRating": 4.5,
+
+            "recipePicture": "https://thumbs.dreamstime.com/b/mishti-doi-fermented-sweet-dahi-curd-originating-bangladesh-popular-dessert-indian-states-west-bengal-234418705.jpg",
+            "ingredients": [
+              "1 liter full-fat milk",
+              "1 cup sugar",
+              "1/4 cup yogurt culture"
+            ],
+
+            "instructions": [
+              "Boil the milk and let it cool down to room temperature.",
+              "Add the sugar and yogurt culture to the milk and mix well.",
+              "Pour the mixture into a container and cover with a lid.",
+              "Pour the mixture into a container and cover with a lid.",
+              "Keep the container in a warm place for 6-8 hours until the yogurt is set.",
+              "Refrigerate for at least 2 hours before serving."
+            ]
+          }
+        ]
+      },
+      {
+        "chefName": "Sudipa Bhattacharya",
+        "experience": "10+ years of experience",
+        "likes": ["Fish Curry", "Misti Doi"],
+        "bio": "Sudipa Bhattacharya is a renowned Bengali chef known for her traditional recipes. With over 10 years of experience in the culinary industry, Sudipa has established herself as an expert in Bengali cuisine. She has also authored several cookbooks and has hosted cooking shows on various TV channels.",
+        "picture": "https://static.toiimg.com/thumb/msid-64585574,width-1280,resizemode-4/64585574.jpg",
+        "recipes": [
+          {
+            "recipeName": "Macher Jhol (Fish Curry)",
+            "recipePicture": "https://th.bing.com/th/id/R.0c272076d475bdadc8c78746b1528848?rik=dkjUY2l5ED%2bi0w&riu=http%3a%2f%2fwww.mareenasrecipecollections.com%2fwp-content%2fuploads%2f2013%2f11%2fmachher-jhol-bengali-fish-curry-recipe-dish.1024x1024.jpg&ehk=g8iC%2bu8Hp5CK7KyqdoojfU%2b2gYKsA%2fdsmwPZj%2fF78jw%3d&risl=&pid=ImgRaw&r=0",
+            "ingredients": [
+              "4 pieces of Rohu fish",
+              "1 onion, chopped",
+              "1 tomato, chopped",
+              "1 tsp ginger paste",
+              "1 tsp garlic paste",
+              "1 tsp turmeric powder",
+              "1 tsp red chili powder",
+              "1 tsp cumin powder",
+              "1 tsp coriander powder",
+              "1 bay leaf",
+              "2 green chilies, slit",
+              "2 tbsp mustard oil",
+              "Salt to taste",
+              "2 cups water"
+            ],
+            "instructions": [
+              "Wash the fish and marinate with turmeric and salt.",
+              "Heat oil in a pan and fry the fish until golden brown. Keep aside.",
+              "In the same oil, add the bay leaf and onion. Fry until the onion is translucent.",
+              "Add ginger and garlic paste and fry until the raw smell goes away.",
+              "Add tomato, turmeric powder, cumin powder, coriander powder, and red chili powder. Cook until the tomato is soft.",
+              "Add water and bring it to a boil. Add the fried fish and green chilies. Cook for 10-15 minutes.",
+              "Serve hot with rice."
+            ]
+          },
+          {
+            "recipeName": "Macher Jhol (Fish Curry)",
+            "recipeLike": 43,
+            "recipeRating": 4.5,
+            "recipePicture": "https://th.bing.com/th/id/R.0c272076d475bdadc8c78746b1528848?rik=dkjUY2l5ED%2bi0w&riu=http%3a%2f%2fwww.mareenasrecipecollections.com%2fwp-content%2fuploads%2f2013%2f11%2fmachher-jhol-bengali-fish-curry-recipe-dish.1024x1024.jpg&ehk=g8iC%2bu8Hp5CK7KyqdoojfU%2b2gYKsA%2fdsmwPZj%2fF78jw%3d&risl=&pid=ImgRaw&r=0",
+            "ingredients": [
+              "4 pieces of Rohu fish",
+              "1 onion, chopped",
+              "1 tomato, chopped",
+              "1 tsp ginger paste",
+              "1 tsp garlic paste",
+              "1 tsp turmeric powder",
+              "1 tsp red chili powder",
+              "1 tsp cumin powder",
+              "1 tsp coriander powder",
+              "1 bay leaf",
+              "2 green chilies, slit",
+              "2 tbsp mustard oil",
+              "Salt to taste",
+              "2 cups water"
+            ],
+            "instructions": [
+              "Wash the fish and marinate with turmeric and salt.",
+              "Heat oil in a pan and fry the fish until golden brown. Keep aside.",
+              "In the same oil, add the bay leaf and onion. Fry until the onion is translucent.",
+              "Add ginger and garlic paste and fry until the raw smell goes away.",
+              "Add tomato, turmeric powder, cumin powder, coriander powder, and red chili powder. Cook until the tomato is soft.",
+              "Add water and bring it to a boil. Add the fried fish and green chilies. Cook for 10-15 minutes.",
+              "Serve hot with rice."
+            ]
+          },
+          {
+            "recipeName": "Misti Doi (Sweet Yogurt)",
+            "recipeLike": 43,
+            "recipeRating": 4.5,
+
+            "recipePicture": "https://thumbs.dreamstime.com/b/mishti-doi-fermented-sweet-dahi-curd-originating-bangladesh-popular-dessert-indian-states-west-bengal-234418705.jpg",
+            "ingredients": [
+              "1 liter full-fat milk",
+              "1 cup sugar",
+              "1/4 cup yogurt culture"
+            ],
+
+            "instructions": [
+              "Boil the milk and let it cool down to room temperature.",
+              "Add the sugar and yogurt culture to the milk and mix well.",
+              "Pour the mixture into a container and cover with a lid.",
+              "Pour the mixture into a container and cover with a lid.",
+              "Keep the container in a warm place for 6-8 hours until the yogurt is set.",
+              "Refrigerate for at least 2 hours before serving."
+            ]
+          }
+        ]
+      },
+      {
+        "chefName": "Sudipa Bhattacharya",
+        "experience": "10+ years of experience",
+        "likes": ["Fish Curry", "Misti Doi"],
+        "bio": "Sudipa Bhattacharya is a renowned Bengali chef known for her traditional recipes. With over 10 years of experience in the culinary industry, Sudipa has established herself as an expert in Bengali cuisine. She has also authored several cookbooks and has hosted cooking shows on various TV channels.",
+        "picture": "https://static.toiimg.com/thumb/msid-64585574,width-1280,resizemode-4/64585574.jpg",
+        "recipes": [
+          {
+            "recipeName": "Macher Jhol (Fish Curry)",
+            "recipePicture": "https://th.bing.com/th/id/R.0c272076d475bdadc8c78746b1528848?rik=dkjUY2l5ED%2bi0w&riu=http%3a%2f%2fwww.mareenasrecipecollections.com%2fwp-content%2fuploads%2f2013%2f11%2fmachher-jhol-bengali-fish-curry-recipe-dish.1024x1024.jpg&ehk=g8iC%2bu8Hp5CK7KyqdoojfU%2b2gYKsA%2fdsmwPZj%2fF78jw%3d&risl=&pid=ImgRaw&r=0",
+            "ingredients": [
+              "4 pieces of Rohu fish",
+              "1 onion, chopped",
+              "1 tomato, chopped",
+              "1 tsp ginger paste",
+              "1 tsp garlic paste",
+              "1 tsp turmeric powder",
+              "1 tsp red chili powder",
+              "1 tsp cumin powder",
+              "1 tsp coriander powder",
+              "1 bay leaf",
+              "2 green chilies, slit",
+              "2 tbsp mustard oil",
+              "Salt to taste",
+              "2 cups water"
+            ],
+            "instructions": [
+              "Wash the fish and marinate with turmeric and salt.",
+              "Heat oil in a pan and fry the fish until golden brown. Keep aside.",
+              "In the same oil, add the bay leaf and onion. Fry until the onion is translucent.",
+              "Add ginger and garlic paste and fry until the raw smell goes away.",
+              "Add tomato, turmeric powder, cumin powder, coriander powder, and red chili powder. Cook until the tomato is soft.",
+              "Add water and bring it to a boil. Add the fried fish and green chilies. Cook for 10-15 minutes.",
+              "Serve hot with rice."
+            ]
+          },
+          {
+            "recipeName": "Macher Jhol (Fish Curry)",
+            "recipeLike": 43,
+            "recipeRating": 4.5,
+            "recipePicture": "https://th.bing.com/th/id/R.0c272076d475bdadc8c78746b1528848?rik=dkjUY2l5ED%2bi0w&riu=http%3a%2f%2fwww.mareenasrecipecollections.com%2fwp-content%2fuploads%2f2013%2f11%2fmachher-jhol-bengali-fish-curry-recipe-dish.1024x1024.jpg&ehk=g8iC%2bu8Hp5CK7KyqdoojfU%2b2gYKsA%2fdsmwPZj%2fF78jw%3d&risl=&pid=ImgRaw&r=0",
+            "ingredients": [
+              "4 pieces of Rohu fish",
+              "1 onion, chopped",
+              "1 tomato, chopped",
+              "1 tsp ginger paste",
+              "1 tsp garlic paste",
+              "1 tsp turmeric powder",
+              "1 tsp red chili powder",
+              "1 tsp cumin powder",
+              "1 tsp coriander powder",
+              "1 bay leaf",
+              "2 green chilies, slit",
+              "2 tbsp mustard oil",
+              "Salt to taste",
+              "2 cups water"
+            ],
+            "instructions": [
+              "Wash the fish and marinate with turmeric and salt.",
+              "Heat oil in a pan and fry the fish until golden brown. Keep aside.",
+              "In the same oil, add the bay leaf and onion. Fry until the onion is translucent.",
+              "Add ginger and garlic paste and fry until the raw smell goes away.",
+              "Add tomato, turmeric powder, cumin powder, coriander powder, and red chili powder. Cook until the tomato is soft.",
+              "Add water and bring it to a boil. Add the fried fish and green chilies. Cook for 10-15 minutes.",
+              "Serve hot with rice."
+            ]
+          },
+          {
+            "recipeName": "Misti Doi (Sweet Yogurt)",
+            "recipeLike": 43,
+            "recipeRating": 4.5,
+
+            "recipePicture": "https://thumbs.dreamstime.com/b/mishti-doi-fermented-sweet-dahi-curd-originating-bangladesh-popular-dessert-indian-states-west-bengal-234418705.jpg",
+            "ingredients": [
+              "1 liter full-fat milk",
+              "1 cup sugar",
+              "1/4 cup yogurt culture"
+            ],
+
+            "instructions": [
+              "Boil the milk and let it cool down to room temperature.",
+              "Add the sugar and yogurt culture to the milk and mix well.",
+              "Pour the mixture into a container and cover with a lid.",
+              "Pour the mixture into a container and cover with a lid.",
+              "Keep the container in a warm place for 6-8 hours until the yogurt is set.",
+              "Refrigerate for at least 2 hours before serving."
+            ]
+          }
+        ]
+      },
+      {
+        "chefName": "Sudipa Bhattacharya",
+        "experience": "10+ years of experience",
+        "likes": ["Fish Curry", "Misti Doi"],
+        "bio": "Sudipa Bhattacharya is a renowned Bengali chef known for her traditional recipes. With over 10 years of experience in the culinary industry, Sudipa has established herself as an expert in Bengali cuisine. She has also authored several cookbooks and has hosted cooking shows on various TV channels.",
+        "picture": "https://static.toiimg.com/thumb/msid-64585574,width-1280,resizemode-4/64585574.jpg",
+        "recipes": [
+          {
+            "recipeName": "Macher Jhol (Fish Curry)",
+            "recipePicture": "https://th.bing.com/th/id/R.0c272076d475bdadc8c78746b1528848?rik=dkjUY2l5ED%2bi0w&riu=http%3a%2f%2fwww.mareenasrecipecollections.com%2fwp-content%2fuploads%2f2013%2f11%2fmachher-jhol-bengali-fish-curry-recipe-dish.1024x1024.jpg&ehk=g8iC%2bu8Hp5CK7KyqdoojfU%2b2gYKsA%2fdsmwPZj%2fF78jw%3d&risl=&pid=ImgRaw&r=0",
+            "ingredients": [
+              "4 pieces of Rohu fish",
+              "1 onion, chopped",
+              "1 tomato, chopped",
+              "1 tsp ginger paste",
+              "1 tsp garlic paste",
+              "1 tsp turmeric powder",
+              "1 tsp red chili powder",
+              "1 tsp cumin powder",
+              "1 tsp coriander powder",
+              "1 bay leaf",
+              "2 green chilies, slit",
+              "2 tbsp mustard oil",
+              "Salt to taste",
+              "2 cups water"
+            ],
+            "instructions": [
+              "Wash the fish and marinate with turmeric and salt.",
+              "Heat oil in a pan and fry the fish until golden brown. Keep aside.",
+              "In the same oil, add the bay leaf and onion. Fry until the onion is translucent.",
+              "Add ginger and garlic paste and fry until the raw smell goes away.",
+              "Add tomato, turmeric powder, cumin powder, coriander powder, and red chili powder. Cook until the tomato is soft.",
+              "Add water and bring it to a boil. Add the fried fish and green chilies. Cook for 10-15 minutes.",
+              "Serve hot with rice."
+            ]
+          },
+          {
+            "recipeName": "Macher Jhol (Fish Curry)",
+            "recipeLike": 43,
+            "recipeRating": 4.5,
+            "recipePicture": "https://th.bing.com/th/id/R.0c272076d475bdadc8c78746b1528848?rik=dkjUY2l5ED%2bi0w&riu=http%3a%2f%2fwww.mareenasrecipecollections.com%2fwp-content%2fuploads%2f2013%2f11%2fmachher-jhol-bengali-fish-curry-recipe-dish.1024x1024.jpg&ehk=g8iC%2bu8Hp5CK7KyqdoojfU%2b2gYKsA%2fdsmwPZj%2fF78jw%3d&risl=&pid=ImgRaw&r=0",
+            "ingredients": [
+              "4 pieces of Rohu fish",
+              "1 onion, chopped",
+              "1 tomato, chopped",
+              "1 tsp ginger paste",
+              "1 tsp garlic paste",
+              "1 tsp turmeric powder",
+              "1 tsp red chili powder",
+              "1 tsp cumin powder",
+              "1 tsp coriander powder",
+              "1 bay leaf",
+              "2 green chilies, slit",
+              "2 tbsp mustard oil",
+              "Salt to taste",
+              "2 cups water"
+            ],
+            "instructions": [
+              "Wash the fish and marinate with turmeric and salt.",
+              "Heat oil in a pan and fry the fish until golden brown. Keep aside.",
+              "In the same oil, add the bay leaf and onion. Fry until the onion is translucent.",
+              "Add ginger and garlic paste and fry until the raw smell goes away.",
+              "Add tomato, turmeric powder, cumin powder, coriander powder, and red chili powder. Cook until the tomato is soft.",
+              "Add water and bring it to a boil. Add the fried fish and green chilies. Cook for 10-15 minutes.",
+              "Serve hot with rice."
+            ]
+          },
+          {
+            "recipeName": "Misti Doi (Sweet Yogurt)",
+            "recipeLike": 43,
+            "recipeRating": 4.5,
+
+            "recipePicture": "https://thumbs.dreamstime.com/b/mishti-doi-fermented-sweet-dahi-curd-originating-bangladesh-popular-dessert-indian-states-west-bengal-234418705.jpg",
+            "ingredients": [
+              "1 liter full-fat milk",
+              "1 cup sugar",
+              "1/4 cup yogurt culture"
+            ],
+
+            "instructions": [
+              "Boil the milk and let it cool down to room temperature.",
+              "Add the sugar and yogurt culture to the milk and mix well.",
+              "Pour the mixture into a container and cover with a lid.",
+              "Pour the mixture into a container and cover with a lid.",
+              "Keep the container in a warm place for 6-8 hours until the yogurt is set.",
+              "Refrigerate for at least 2 hours before serving."
+            ]
+          }
+        ]
+      },
+      {
+        "chefName": "Sudipa Bhattacharya",
+        "experience": "10+ years of experience",
+        "likes": ["Fish Curry", "Misti Doi"],
+        "bio": "Sudipa Bhattacharya is a renowned Bengali chef known for her traditional recipes. With over 10 years of experience in the culinary industry, Sudipa has established herself as an expert in Bengali cuisine. She has also authored several cookbooks and has hosted cooking shows on various TV channels.",
+        "picture": "https://static.toiimg.com/thumb/msid-64585574,width-1280,resizemode-4/64585574.jpg",
         "recipes": [
           {
             "recipeName": "Macher Jhol (Fish Curry)",

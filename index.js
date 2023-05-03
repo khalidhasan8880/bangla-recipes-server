@@ -8,11 +8,11 @@ const data = require('./data/chef.json')
 app.get('/', (req, res) => {
   res.send(data)
 })
-// app.get('/recipe/:id', (req, res) => {
-//   const id  = req.params.id;
-//   const item = data.recipes.find(recipe=> recipe.id == id)
-//   res.send(item)
-// })
+app.get('/chef/:id', (req, res) => {
+  const id  = req.params.id;
+  const chef = data.chefs.find(chef=> chef.id == id)
+  res.send(chef)
+})
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
